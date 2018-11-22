@@ -1,6 +1,6 @@
 Antes de actualizar avisa en el chat.
 
-1.- git pull origin master
+1.- borra el repositorio de tu PC, y clona de nuevo
 2.- /*agrega tus cambios y guarda*/
 3.- git add "[nombre del archivo]"
 	3.1.- git add .
