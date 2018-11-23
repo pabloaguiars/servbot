@@ -1,8 +1,15 @@
+Antes de empezar a trabajar...
+1.- git fetch --all
+2.- git reset --hard origin/master
+3.- git pull origin master
+4.- Hacer una copia del archivo blender recien descargado en otra carpeta, para trabajar en él.
+
 Antes de actualizar avisa en el chat.
 
-1.- borra el repositorio de tu PC, y clona de nuevo
-2.- /*agrega tus cambios y guarda*/
-3.- git add "[nombre del archivo]"
+5.- Si alguien actualizó antes que tú, repite los pasos del 1 al 3.
+
+6.- /*agrega tus cambios [copiar y pegar], acomoda detalles y guarda*/
+7.- git add "[nombre del archivo]"
 	3.1.- git add .
-4.- git commit -m "[descripción de la actualización]"
-5.- git push origin master
+8.- git commit -m "[descripción de la actualización]"
+9.- git push origin master
