@@ -6,8 +6,8 @@ Antes de empezar a trabajar...
 	También puedes, simplemente borrar el repositorio local, y clonarlo otra vez.
 		git clone [url]
 
-4.- Hacer una copia del archivo blender recien descargado en otra carpeta, para trabajar en él.
-
+4.- Hacer una copia del archivo blender [junto con la imagen de referencia] recien descargado en otra carpeta, 
+para trabajar en él.
 
 Antes de actualizar avisa en el chat.
 
@@ -18,3 +18,6 @@ Antes de actualizar avisa en el chat.
 	3.1.- git add .
 8.- git commit -m "[descripción de la actualización]"
 9.- git push origin master
+
+Recuerden tomar capturas de pantalla del proceso, y cuando vayan a actualizar, 
+guardarlas en la carpeta /servbot/3d/capturas de pantalla en formato .png y respetando la númeración.
